@@ -24,3 +24,8 @@ Customer churn is a fundamental problem for the telecommunication (Telco) indust
 We can roughly define the Churn analysis as the whole of analytical studies on “a customer”, “a product or service”, and “the probability of abandonment”. We aim to be aware of this situation (even the customer himself may not be aware of this situation) before the customer leaves us (approaching to leave) and then to take some preventive actions.
 Telco churn data includes information about a fictitious telecom company that provided home phone and Internet services to 7,043 California customers in the third quarter. Which customers have left, stayed, or signed up for their service shows?
 
+## Output:
+
+
+<img width="858" alt="Screen Shot 2023-01-17 at 4 46 50 PM" src="https://user-images.githubusercontent.com/97979602/213019418-9f333936-3fbf-4ccc-84d8-14b3ad601792.png">
+
